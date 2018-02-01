@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
+import { getCurrentNumeralLocale } from './locale.format';
 
 @NgModule({
   declarations: [
